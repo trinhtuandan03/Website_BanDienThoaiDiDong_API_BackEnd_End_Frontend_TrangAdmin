@@ -1,0 +1,8 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Cart
+
+<h2>Chi tiết Giỏ Hàng</h2>
+<p><strong>Tên Người Dùng:</strong> @Model.UserName</p>
+<p><strong>Tổng Giá:</strong> @Model.TotalPrice</p>
+<p><strong>Phương Thức Thanh Toán:</strong> @Model.PaymentMethod</p>
+<p><strong>Ngày Tạo:</strong> @Model.CreatedAt</p>
+<a asp-action="Index" class="btn btn-primary">Quay lại</a>

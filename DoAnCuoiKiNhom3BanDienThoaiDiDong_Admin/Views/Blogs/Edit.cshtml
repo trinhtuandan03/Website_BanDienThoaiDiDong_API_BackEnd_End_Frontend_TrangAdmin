@@ -1,0 +1,21 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Blog
+
+<form asp-action="@ViewData["Action"]" method="post">
+    <div class="form-group">
+        <label for="Title">Tiêu Đề</label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Content">Nội Dung</label>
+        <textarea asp-for="Content" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="ImageUrl">Hình Ảnh</label>
+        <input asp-for="ImageUrl" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Category">Danh Mục</label>
+        <input asp-for="Category" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>

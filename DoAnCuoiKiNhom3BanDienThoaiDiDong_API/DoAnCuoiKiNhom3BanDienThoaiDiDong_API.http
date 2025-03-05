@@ -1,0 +1,6 @@
+@DoAnCuoiKiNhom3BanDienThoaiDiDong_API_HostAddress = http://localhost:5182
+
+GET {{DoAnCuoiKiNhom3BanDienThoaiDiDong_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

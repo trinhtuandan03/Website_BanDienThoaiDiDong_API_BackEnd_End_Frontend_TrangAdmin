@@ -1,0 +1,29 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.Order
+
+<form asp-action="@ViewData["Action"]" method="post">
+    <div class="form-group">
+        <label for="UserId">ID Người Dùng</label>
+        <input asp-for="UserId" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="OrderDate">Ngày Đặt Hàng</label>
+        <input asp-for="OrderDate" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="OrderStatus">Trạng Thái</label>
+        <input asp-for="OrderStatus" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="TotalPrice">Tổng Giá</label>
+        <input asp-for="TotalPrice" type="number" step="0.01" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="PaymentMethod">Phương Thức Thanh Toán</label>
+        <input asp-for="PaymentMethod" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="ShippingAddress">Địa Chỉ Giao Hàng</label>
+        <textarea asp-for="ShippingAddress" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>

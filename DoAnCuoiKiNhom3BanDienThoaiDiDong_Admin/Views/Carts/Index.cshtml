@@ -1,0 +1,45 @@
+﻿@model IEnumerable<DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Cart>
+
+<h2>Danh sách Giỏ Hàng</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Tên Người Dùng</th>
+            <th>Tổng Giá</th>
+            <th>Phương Thức Thanh Toán</th>
+            <th>Ngày Tạo</th>
+            <th>Thao Tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            int index = 1;
+            foreach (var cart in Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@cart.UserName</td>
+                    <td>@cart.TotalPrice</td>
+                    <td>@cart.PaymentMethod</td>
+                    <td>@cart.CreatedAt</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@cart.Id" class="btn btn-info">Chi tiết</a>
+                        <a asp-action="Edit" asp-route-id="@cart.Id" class="btn btn-warning">Chỉnh sửa</a>
+                        <form asp-action="Delete" asp-route-id="@cart.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger">Xóa</button>
+                        </form>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center">Không có giỏ hàng nào để hiển thị.</td>
+            </tr>
+        }
+    </tbody>
+</table>

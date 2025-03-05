@@ -1,0 +1,24 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Product
+
+<h2>Chi Tiết Sản Phẩm</h2>
+
+<div>
+    <p><strong>Tên sản phẩm:</strong> @Model.Name</p>
+    <p><strong>Giá:</strong> @Model.Price</p>
+    <p><strong>Hình ảnh 1:</strong></p>
+    @if (!string.IsNullOrEmpty(Model.Image1))
+    {
+        <img src="@Model.Image1" alt="Hình ảnh 1" style="width: 300px; height: auto;" />
+    }
+    <p><strong>Hình ảnh 2:</strong></p>
+    @if (!string.IsNullOrEmpty(Model.Image2))
+    {
+        <img src="@Model.Image2" alt="Hình ảnh 2" style="width: 300px; height: auto;" />
+    }
+    <p><strong>Mô tả:</strong> @Model.Description</p>
+    <p><strong>Loại sản phẩm:</strong> @Model.CategoryId</p>
+    <p><strong>Ngày tạo:</strong> @Model.CreatedAt</p>
+    <p><strong>Ngày cập nhật:</strong> @Model.UpdatedAt</p>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>

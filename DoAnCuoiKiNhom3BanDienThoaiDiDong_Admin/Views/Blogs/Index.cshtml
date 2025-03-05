@@ -1,0 +1,55 @@
+﻿@model IEnumerable<DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Blog>
+
+<h2>Danh sách Blogs</h2>
+
+<a asp-action="Create" class="btn btn-success">Thêm Mới</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Tiêu Đề</th>
+            <th>Nội Dung</th>
+            <th>Ảnh Bìa</th>
+            <th>Danh Mục</th>
+            <th>Ngày Tạo</th>
+            <th>Thao Tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            int index = 1;
+            foreach (var blog in Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@blog.Title</td>
+                    <td>@blog.Content</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(blog.ImageUrl))
+                        {
+                            <img src="@blog.ImageUrl" alt="Hình ảnh 1" style="width: 150px; height: auto;" />
+                        }
+                    </td>
+                    <td>@blog.Category</td>
+                    <td>@blog.CreatedAt</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@blog.Id" class="btn btn-info">Chi tiết</a>
+                        <a asp-action="Edit" asp-route-id="@blog.Id" class="btn btn-warning">Chỉnh sửa</a>
+                        <form asp-action="Delete" asp-route-id="@blog.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger">Xóa</button>
+                        </form>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">Không có bài viết nào để hiển thị.</td>
+            </tr>
+        }
+    </tbody>
+</table>

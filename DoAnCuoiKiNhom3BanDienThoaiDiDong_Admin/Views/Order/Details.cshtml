@@ -1,0 +1,10 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.Order
+
+<h2>Chi tiết Đơn Hàng</h2>
+<p><strong>ID Người Dùng:</strong> @Model.UserId</p>
+<p><strong>Ngày Đặt Hàng:</strong> @Model.OrderDate.ToShortDateString()</p>
+<p><strong>Trạng Thái:</strong> @Model.OrderStatus</p>
+<p><strong>Tổng Giá:</strong> @Model.TotalPrice</p>
+<p><strong>Phương Thức Thanh Toán:</strong> @Model.PaymentMethod</p>
+<p><strong>Địa Chỉ Giao Hàng:</strong> @Model.ShippingAddress</p>
+<a asp-action="Index" class="btn btn-primary">Quay lại</a>

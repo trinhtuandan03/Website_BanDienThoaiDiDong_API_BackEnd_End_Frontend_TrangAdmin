@@ -1,0 +1,15 @@
+wwwroot\Admin\assets\images\down-arrow.png
+wwwroot\Admin\assets\images\drag-indicator.png
+wwwroot\Admin\assets\libs\css\style.css
+wwwroot\Admin\assets\vendor\bootstrap\css\bootstrap.min.css
+wwwroot\Admin\assets\vendor\charts\chartist-bundle\chartist.css
+wwwroot\Admin\assets\vendor\fonts\circular-std\CircularStd-Black.woff
+wwwroot\Admin\assets\vendor\fonts\circular-std\CircularStd-BlackItalic.woff
+wwwroot\Admin\assets\vendor\fonts\circular-std\CircularStd-Bold.woff
+wwwroot\Admin\assets\vendor\fonts\circular-std\CircularStd-BoldItalic.woff
+wwwroot\Admin\assets\vendor\fonts\circular-std\CircularStd-Book.woff
+wwwroot\Admin\assets\vendor\fonts\circular-std\CircularStd-BookItalic.woff
+wwwroot\Admin\assets\vendor\fonts\circular-std\CircularStd-Medium.woff
+wwwroot\Admin\assets\vendor\fonts\circular-std\CircularStd-MediumItalic.woff
+wwwroot\Admin\assets\vendor\fonts\circular-std\style.css
+wwwroot\Admin\assets\vendor\fonts\fontawesome\css\fontawesome-all.css

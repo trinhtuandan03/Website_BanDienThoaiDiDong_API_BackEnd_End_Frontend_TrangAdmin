@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

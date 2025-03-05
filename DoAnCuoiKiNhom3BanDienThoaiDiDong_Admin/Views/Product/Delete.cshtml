@@ -1,0 +1,25 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Product
+
+<h2>Xóa Sản Phẩm</h2>
+
+<p>Bạn có chắc muốn xóa sản phẩm sau đây?</p>
+<div>
+    <p><strong>Tên sản phẩm:</strong> @Model.Name</p>
+    <p><strong>Giá:</strong> @Model.Price</p>
+    <p><strong>Hình ảnh 1:</strong></p>
+    @if (!string.IsNullOrEmpty(Model.Image1))
+    {
+        <img src="@Model.Image1" alt="Hình ảnh 1" style="width: 300px; height: auto;" />
+    }
+    <p><strong>Hình ảnh 2:</strong></p>
+    @if (!string.IsNullOrEmpty(Model.Image2))
+    {
+        <img src="@Model.Image2" alt="Hình ảnh 2" style="width: 300px; height: auto;" />
+    }
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

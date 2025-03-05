@@ -1,0 +1,66 @@
+﻿@model IEnumerable<DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Product>
+
+<h2>Danh sách Sản Phẩm</h2>
+
+<a asp-action="Create" class="btn btn-success">Thêm Mới</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Tên Sản Phẩm</th>
+            <th>Giá</th>
+            <th>Hình Ảnh 1</th>
+            <th>Hình Ảnh 2</th>
+            <th>Loại Sản Phẩm</th>
+            <th>Mô Tả</th>
+            <th>Ngày Tạo</th>
+            <th>Ngày Cập Nhật</th>
+            <th>Thao Tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            int index = 1;
+            foreach (var product in Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(product.Image1))
+                        {
+                            <img src="@product.Image1" alt="Hình ảnh 1" style="width: 150px; height: auto;" />
+                        }
+                    </td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(product.Image2))
+                        {
+                            <img src="@product.Image2" alt="Hình ảnh 2" style="width: 150px; height: auto;" />
+                        }
+                    </td>
+                    <td>@product.CategoryId</td>
+                    <td>@product.Description</td>
+                    <td>@product.CreatedAt</td>
+                    <td>@product.UpdatedAt</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@product.Id" class="btn btn-info">Chi tiết</a>
+                        <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning">Chỉnh sửa</a>
+                        <form asp-action="Delete" asp-route-id="@product.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger">Xóa</button>
+                        </form>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center">Không có sản phẩm nào để hiển thị.</td>
+            </tr>
+        }
+    </tbody>
+</table>

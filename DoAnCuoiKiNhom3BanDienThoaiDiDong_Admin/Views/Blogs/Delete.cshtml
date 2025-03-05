@@ -1,0 +1,8 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Blog
+
+<h2>Xóa Blog</h2>
+<p>Bạn có chắc chắn muốn xóa bài viết "<strong>@Model.Title</strong>" không?</p>
+<form asp-action="Delete" method="post">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

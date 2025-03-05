@@ -1,0 +1,8 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Cart
+
+<h2>Xóa Giỏ Hàng</h2>
+<p>Bạn có chắc chắn muốn xóa giỏ hàng của "<strong>@Model.UserName</strong>" không?</p>
+<form asp-action="Delete" method="post">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

@@ -1,0 +1,8 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.CartDetail
+
+<h2>Xóa Chi Tiết Giỏ Hàng</h2>
+<p>Bạn có chắc chắn muốn xóa sản phẩm "<strong>@Model.ProductName</strong>" không?</p>
+<form asp-action="Delete" method="post">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

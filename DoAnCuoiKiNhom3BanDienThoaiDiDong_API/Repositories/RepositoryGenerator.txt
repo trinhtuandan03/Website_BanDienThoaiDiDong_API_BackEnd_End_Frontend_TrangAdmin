@@ -1,0 +1,94 @@
+﻿<#@ template debug="false" hostspecific="true" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.IO" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+
+<#
+// Đường dẫn tới thư mục chứa các lớp Entity (Models)
+var entityFolder = Path.Combine(Host.ResolvePath("."), @"..\Models");
+// Đường dẫn thư mục đầu ra cho các Repository
+var outputFolder = Path.Combine(Host.ResolvePath("."), @"..\Repositories");
+
+// Đảm bảo thư mục đầu ra tồn tại
+if (!Directory.Exists(outputFolder))
+{
+    Directory.CreateDirectory(outputFolder);
+}
+
+// Lấy danh sách các file Entity
+var entityFiles = Directory.GetFiles(entityFolder, "*.cs");
+
+foreach (var filePath in entityFiles)
+{
+    var className = Path.GetFileNameWithoutExtension(filePath);
+    var repositoryName = $"{className}Repository";
+
+    // Tạo nội dung file Repository
+    var repositoryContent = $@"using System.Collections.Generic;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Models;
+
+namespace DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Repositories
+{{
+    public interface I{repositoryName}
+    {{
+        Task<IEnumerable<{className}>> Get{className}sAsync();
+        Task<{className}> Get{className}ByIdAsync(int id);
+        Task Add{className}Async({className} {className.ToLower()});
+        Task Update{className}Async({className} {className.ToLower()});
+        Task Delete{className}Async(int id);
+    }}
+
+    public class {repositoryName} : I{repositoryName}
+    {{
+        private readonly ApplicationDbContext _context;
+
+        public {repositoryName}(ApplicationDbContext context)
+        {{
+            _context = context;
+        }}
+
+        public async Task<IEnumerable<{className}>> Get{className}sAsync()
+        {{
+            return await _context.{className}s.ToListAsync();
+        }}
+
+        public async Task<{className}> Get{className}ByIdAsync(int id)
+        {{
+            return await _context.{className}s.FindAsync(id);
+        }}
+
+       public async Task Add{className}Async({className} {className.ToLower()})
+        {{
+            _context.{className}s.Add({className.ToLower()});
+            await _context.SaveChangesAsync();
+        }}
+
+        public async Task Update{className}Async({className} {className.ToLower()})
+        {{
+            _context.Entry({className.ToLower()}).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+        }}
+
+        public async Task Delete{className}Async(int id)
+        {{
+            var {className.ToLower()} = await _context.{className}s.FindAsync(id);
+            if ({className.ToLower()} != null)
+            {{
+                _context.{className}s.Remove({className.ToLower()});
+                await _context.SaveChangesAsync();
+            }}
+        }}
+    }}
+}}
+";
+
+    // Ghi nội dung vào file Repository
+    var outputFilePath = Path.Combine(outputFolder, $"{repositoryName}.cs");
+    File.WriteAllText(outputFilePath, repositoryContent);
+}
+#>
+// Template generated successfully.

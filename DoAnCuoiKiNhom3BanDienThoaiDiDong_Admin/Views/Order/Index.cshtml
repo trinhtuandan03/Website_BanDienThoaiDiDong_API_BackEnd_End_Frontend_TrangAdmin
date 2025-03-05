@@ -1,0 +1,45 @@
+﻿@model IEnumerable<DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.Order>
+
+<h2>Danh sách Đơn Hàng</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>ID Người Dùng</th>
+            <th>Ngày Đặt Hàng</th>
+            <th>Trạng Thái</th>
+            <th>Tổng Giá</th>
+            <th>Thao Tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            int index = 1;
+            foreach (var order in Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@order.UserId</td>
+                    <td>@order.OrderDate.ToShortDateString()</td>
+                    <td>@order.OrderStatus</td>
+                    <td>@order.TotalPrice</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@order.Id" class="btn btn-info">Chi tiết</a>
+                        <a asp-action="Edit" asp-route-id="@order.Id" class="btn btn-warning">Chỉnh sửa</a>
+                        <form asp-action="Delete" asp-route-id="@order.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger">Xóa</button>
+                        </form>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center">Không có đơn hàng nào để hiển thị.</td>
+            </tr>
+        }
+    </tbody>
+</table>

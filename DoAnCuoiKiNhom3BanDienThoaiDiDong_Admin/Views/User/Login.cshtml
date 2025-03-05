@@ -1,0 +1,57 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.LoginModel
+
+<style>
+    .splash-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        max-width: 400px;
+        margin: auto;
+        padding: 20px;
+        background-color: #ffffff;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        transform: translateX(-150px); /* Shift the container slightly to the left */
+    }
+
+    .card {
+        width: 100%;
+    }
+</style>
+
+<div class="splash-container">
+    <div class="card">
+        <div class="card-header text-center">
+            <span class="splash-description">Vui lòng nhập thông tin người dùng</span>
+        </div>
+        <div class="card-body">
+            <form method="POST" class="plain-form">
+                <div class="form-group">
+                    <label for="username">Username:</label>
+                    <input class="form-control form-control-lg" asp-for="Username" id="username" type="text" placeholder="Username" autocomplete="off" />
+                </div>
+                <div class="form-group">
+                    <label for="password">Password:</label>
+                    <input class="form-control form-control-lg" asp-for="Password" id="password" type="password" placeholder="Password" />
+                </div>
+                <div class="form-group">
+                    <label class="custom-control custom-checkbox">
+                        <input class="custom-control-input" type="checkbox">
+                        <span class="custom-control-label">Ghi Nhớ Đăng Nhập</span>
+                    </label>
+                </div>
+                <button type="submit">Đăng Nhập</button>
+            </form>
+        </div>
+        <div class="card-footer bg-white p-0">
+            <div class="card-footer-item card-footer-item-bordered">
+                <a href="User/Register" class="footer-link">Đăng Ký</a>
+            </div>
+            <div class="card-footer-item card-footer-item-bordered">
+                <a href="#" class="footer-link">Quên Mật Khẩu</a>
+            </div>
+        </div>
+    </div>
+</div>

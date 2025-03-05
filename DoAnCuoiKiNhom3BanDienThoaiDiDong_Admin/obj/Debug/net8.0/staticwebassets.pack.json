@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.2mh5tmlihx.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\images\\down-arrow.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\down-arrow.png"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\images\\drag-indicator.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\drag-indicator.png"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\libs\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\css\\style.css"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\charts\\chartist-bundle\\chartist.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\chartist-bundle\\chartist.css"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Black.woff"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BlackItalic.woff"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Bold.woff"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BoldItalic.woff"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Book.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Book.woff"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BookItalic.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BookItalic.woff"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Medium.woff"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-MediumItalic.woff"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\style.css"
+    },
+    {
+      "Id": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.props",
+      "PackagePath": "build\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.props",
+      "PackagePath": "buildMultiTargeting\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.props",
+      "PackagePath": "buildTransitive\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

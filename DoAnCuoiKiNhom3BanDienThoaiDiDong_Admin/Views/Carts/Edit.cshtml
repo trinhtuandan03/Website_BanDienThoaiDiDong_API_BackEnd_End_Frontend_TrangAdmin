@@ -1,0 +1,17 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Cart
+
+<form asp-action="@ViewData["Action"]" method="post">
+    <div class="form-group">
+        <label for="UserName">Tên Người Dùng</label>
+        <input asp-for="UserName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="TotalPrice">Tổng Giá</label>
+        <input asp-for="TotalPrice" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="PaymentMethod">Phương Thức Thanh Toán</label>
+        <input asp-for="PaymentMethod" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>

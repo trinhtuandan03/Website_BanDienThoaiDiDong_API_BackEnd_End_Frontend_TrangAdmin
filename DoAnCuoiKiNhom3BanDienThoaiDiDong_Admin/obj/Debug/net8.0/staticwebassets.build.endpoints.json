@@ -1,0 +1,1318 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Admin/assets/images/down-arrow.3y1sdyjmtn.png",
+      "AssetFile": "Admin/assets/images/down-arrow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"250r6iGpY/pcQYk8PRDpQ0zv8S4a/B8GkyaITDyyFFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3y1sdyjmtn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-250r6iGpY/pcQYk8PRDpQ0zv8S4a/B8GkyaITDyyFFM="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/images/down-arrow.png"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/images/down-arrow.png",
+      "AssetFile": "Admin/assets/images/down-arrow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"250r6iGpY/pcQYk8PRDpQ0zv8S4a/B8GkyaITDyyFFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-250r6iGpY/pcQYk8PRDpQ0zv8S4a/B8GkyaITDyyFFM="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/images/drag-indicator.7zk9nipjd1.png",
+      "AssetFile": "Admin/assets/images/drag-indicator.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyHMTaODVu4ZCxXeb9hOvmsR37ahxV10OlkjO9HHRFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7zk9nipjd1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyHMTaODVu4ZCxXeb9hOvmsR37ahxV10OlkjO9HHRFk="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/images/drag-indicator.png"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/images/drag-indicator.png",
+      "AssetFile": "Admin/assets/images/drag-indicator.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyHMTaODVu4ZCxXeb9hOvmsR37ahxV10OlkjO9HHRFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyHMTaODVu4ZCxXeb9hOvmsR37ahxV10OlkjO9HHRFk="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/libs/css/style.3jkijgmdyg.css",
+      "AssetFile": "Admin/assets/libs/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwsFhyC8M3UoXDWci1cCgP7BwJVM5fmey6CyQjFeNxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3jkijgmdyg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwsFhyC8M3UoXDWci1cCgP7BwJVM5fmey6CyQjFeNxA="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/libs/css/style.css"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/libs/css/style.css",
+      "AssetFile": "Admin/assets/libs/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwsFhyC8M3UoXDWci1cCgP7BwJVM5fmey6CyQjFeNxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwsFhyC8M3UoXDWci1cCgP7BwJVM5fmey6CyQjFeNxA="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/bootstrap/css/bootstrap.min.css",
+      "AssetFile": "Admin/assets/vendor/bootstrap/css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NJWeQ+bs82iAeoT5Ktmqbi3NXwxcHlfaVejzJI2dklU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NJWeQ+bs82iAeoT5Ktmqbi3NXwxcHlfaVejzJI2dklU="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/bootstrap/css/bootstrap.min.ke4mfrzjse.css",
+      "AssetFile": "Admin/assets/vendor/bootstrap/css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NJWeQ+bs82iAeoT5Ktmqbi3NXwxcHlfaVejzJI2dklU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ke4mfrzjse"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NJWeQ+bs82iAeoT5Ktmqbi3NXwxcHlfaVejzJI2dklU="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/bootstrap/css/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/charts/chartist-bundle/chartist.1j4ep3y1r3.css",
+      "AssetFile": "Admin/assets/vendor/charts/chartist-bundle/chartist.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bRMAABVP+ecQsz7zNsSPk3ghNkU6wcTa6DgW1Djcu9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1j4ep3y1r3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bRMAABVP+ecQsz7zNsSPk3ghNkU6wcTa6DgW1Djcu9g="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/charts/chartist-bundle/chartist.css"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/charts/chartist-bundle/chartist.css",
+      "AssetFile": "Admin/assets/vendor/charts/chartist-bundle/chartist.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bRMAABVP+ecQsz7zNsSPk3ghNkU6wcTa6DgW1Djcu9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bRMAABVP+ecQsz7zNsSPk3ghNkU6wcTa6DgW1Djcu9g="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-Black.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-Black.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rKSFnLa/d/L+qUjQuC12RiZufPF4fDIOtyCDZpfUSfk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rKSFnLa/d/L+qUjQuC12RiZufPF4fDIOtyCDZpfUSfk="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-Black.wx1m4lr493.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-Black.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rKSFnLa/d/L+qUjQuC12RiZufPF4fDIOtyCDZpfUSfk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wx1m4lr493"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rKSFnLa/d/L+qUjQuC12RiZufPF4fDIOtyCDZpfUSfk="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/CircularStd-Black.woff"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.348hh0u5s1.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UxT7kCwc14sAIOSYn0Aa9Aoa3ECm6gHedVJhzDlYCU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "348hh0u5s1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UxT7kCwc14sAIOSYn0Aa9Aoa3ECm6gHedVJhzDlYCU4="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UxT7kCwc14sAIOSYn0Aa9Aoa3ECm6gHedVJhzDlYCU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UxT7kCwc14sAIOSYn0Aa9Aoa3ECm6gHedVJhzDlYCU4="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-Bold.len6hemwvo.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-Bold.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AztwUezOIMyIVCNGTbKXD1gSnsuqS9kj89YaHIn4s4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "len6hemwvo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AztwUezOIMyIVCNGTbKXD1gSnsuqS9kj89YaHIn4s4k="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/CircularStd-Bold.woff"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-Bold.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-Bold.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AztwUezOIMyIVCNGTbKXD1gSnsuqS9kj89YaHIn4s4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AztwUezOIMyIVCNGTbKXD1gSnsuqS9kj89YaHIn4s4k="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.nyhrc2k9q0.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"URj8eHXoZqGhCdxlI9Cll2N2iRf4goEB8i9md8CLqZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nyhrc2k9q0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-URj8eHXoZqGhCdxlI9Cll2N2iRf4goEB8i9md8CLqZI="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"URj8eHXoZqGhCdxlI9Cll2N2iRf4goEB8i9md8CLqZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-URj8eHXoZqGhCdxlI9Cll2N2iRf4goEB8i9md8CLqZI="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-Book.eq8rb8aa8z.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-Book.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CnC0RfQhe23iSpJgQsbfl0CABHNeWOJnCK3YAD0jKr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eq8rb8aa8z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CnC0RfQhe23iSpJgQsbfl0CABHNeWOJnCK3YAD0jKr0="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/CircularStd-Book.woff"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-Book.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-Book.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CnC0RfQhe23iSpJgQsbfl0CABHNeWOJnCK3YAD0jKr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CnC0RfQhe23iSpJgQsbfl0CABHNeWOJnCK3YAD0jKr0="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-BookItalic.81jciln5x4.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJ5X3DJmMC2aeXcltNl82m/8qmmMMGB+uIyAFdUCH6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81jciln5x4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJ5X3DJmMC2aeXcltNl82m/8qmmMMGB+uIyAFdUCH6o="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJ5X3DJmMC2aeXcltNl82m/8qmmMMGB+uIyAFdUCH6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJ5X3DJmMC2aeXcltNl82m/8qmmMMGB+uIyAFdUCH6o="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-Medium.5ki7ye2il7.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-Medium.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tVNxv5g8dJJzzdWU4W2SSYEYgUnd2uB0lsTii3LE+nY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ki7ye2il7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tVNxv5g8dJJzzdWU4W2SSYEYgUnd2uB0lsTii3LE+nY="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/CircularStd-Medium.woff"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-Medium.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-Medium.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tVNxv5g8dJJzzdWU4W2SSYEYgUnd2uB0lsTii3LE+nY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tVNxv5g8dJJzzdWU4W2SSYEYgUnd2uB0lsTii3LE+nY="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.ktnpy7bctw.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2NJxdH29toYKBjJva0ZsO/h/q8EmNjrQudVj+Ba7OTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktnpy7bctw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2NJxdH29toYKBjJva0ZsO/h/q8EmNjrQudVj+Ba7OTE="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2NJxdH29toYKBjJva0ZsO/h/q8EmNjrQudVj+Ba7OTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2NJxdH29toYKBjJva0ZsO/h/q8EmNjrQudVj+Ba7OTE="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/style.css",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHPezOdor7v8R0X0Kban317dBG3kybR75l4YVwlTlYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHPezOdor7v8R0X0Kban317dBG3kybR75l4YVwlTlYE="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/circular-std/style.ksn6bl7czj.css",
+      "AssetFile": "Admin/assets/vendor/fonts/circular-std/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHPezOdor7v8R0X0Kban317dBG3kybR75l4YVwlTlYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ksn6bl7czj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHPezOdor7v8R0X0Kban317dBG3kybR75l4YVwlTlYE="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/circular-std/style.css"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/fontawesome/css/fontawesome-all.6qambbv70c.css",
+      "AssetFile": "Admin/assets/vendor/fonts/fontawesome/css/fontawesome-all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zoZ1b4B6NyZnAvgrHpKEFF/e93p89/oo4aNkGt8XxaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qambbv70c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zoZ1b4B6NyZnAvgrHpKEFF/e93p89/oo4aNkGt8XxaE="
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/vendor/fonts/fontawesome/css/fontawesome-all.css"
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/vendor/fonts/fontawesome/css/fontawesome-all.css",
+      "AssetFile": "Admin/assets/vendor/fonts/fontawesome/css/fontawesome-all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zoZ1b4B6NyZnAvgrHpKEFF/e93p89/oo4aNkGt8XxaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 Sep 2022 20:06:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zoZ1b4B6NyZnAvgrHpKEFF/e93p89/oo4aNkGt8XxaE="
+        }
+      ]
+    },
+    {
+      "Route": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.2mh5tmlihx.styles.css",
+      "AssetFile": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ag3H1HAiVpEExPrXjpkUVp4uOB6c8NVM5wskXsrjxHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:52:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2mh5tmlihx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ag3H1HAiVpEExPrXjpkUVp4uOB6c8NVM5wskXsrjxHE="
+        },
+        {
+          "Name": "label",
+          "Value": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.styles.css",
+      "AssetFile": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ag3H1HAiVpEExPrXjpkUVp4uOB6c8NVM5wskXsrjxHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:52:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ag3H1HAiVpEExPrXjpkUVp4uOB6c8NVM5wskXsrjxHE="
+        }
+      ]
+    }
+  ]
+}

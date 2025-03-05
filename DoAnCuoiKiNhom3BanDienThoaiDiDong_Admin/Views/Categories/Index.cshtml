@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Category>
+
+<h2>Danh sách Danh Mục</h2>
+
+<a asp-action="Create" class="btn btn-success">Thêm Mới</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Tên Danh Mục</th>
+            <th>Mô Tả</th>
+            <th>Thao Tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            int index = 1;
+            foreach (var category in Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@category.Name</td>
+                    <td>@category.Description</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@category.Id" class="btn btn-warning">Chỉnh sửa</a>
+                        <form asp-action="Delete" asp-route-id="@category.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger">Xóa</button>
+                        </form>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center">Không có danh mục nào để hiển thị.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

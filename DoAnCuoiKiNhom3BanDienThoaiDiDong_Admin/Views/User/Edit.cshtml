@@ -1,0 +1,46 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.User
+
+<div class="container mt-4">
+    <h2 class="text-center">Chỉnh Sửa Thông Tin Người Dùng</h2>
+    <form asp-action="Edit" asp-route-id="@Model.Id" method="post">
+        <div class="mb-3">
+            <label asp-for="UserName" class="form-label">Tên Người Dùng</label>
+            <input asp-for="UserName" class="form-control" required />
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input asp-for="Email" type="email" class="form-control" required />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="PhoneNumber" class="form-label">Số Điện Thoại</label>
+            <input asp-for="PhoneNumber" class="form-control" required />
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Initials" class="form-label">Chữ Ký</label>
+            <input asp-for="Initials" class="form-control" />
+            <span asp-validation-for="Initials" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Roles" class="form-label">Vai Trò</label>
+            <input asp-for="Roles" class="form-control" />
+            <span asp-validation-for="Roles" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label for="currentPassword" class="form-label">Mật Khẩu Hiện Tại</label>
+            <input id="currentPassword" name="currentPassword" type="password" class="form-control" />
+            <span class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label for="newPassword" class="form-label">Mật Khẩu Mới</label>
+            <input id="newPassword" name="newPassword" type="password" class="form-control" />
+            <span class="text-danger"></span>
+        </div>
+        <div class="text-end">
+            <button type="submit" class="btn btn-primary">Lưu Thay Đổi</button>
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </div>
+    </form>
+</div>

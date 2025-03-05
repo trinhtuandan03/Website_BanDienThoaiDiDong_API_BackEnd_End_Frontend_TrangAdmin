@@ -1,0 +1,196 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/images/down-arrow.3y1sdyjmtn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\images\down-arrow.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3y1sdyjmtn"},{"Name":"integrity","Value":"sha256-250r6iGpY/pcQYk8PRDpQ0zv8S4a/B8GkyaITDyyFFM="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/images/down-arrow.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022250r6iGpY/pcQYk8PRDpQ0zv8S4a/B8GkyaITDyyFFM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/images/down-arrow.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\images\down-arrow.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-250r6iGpY/pcQYk8PRDpQ0zv8S4a/B8GkyaITDyyFFM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"108"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022250r6iGpY/pcQYk8PRDpQ0zv8S4a/B8GkyaITDyyFFM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/images/drag-indicator.7zk9nipjd1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\images\drag-indicator.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7zk9nipjd1"},{"Name":"integrity","Value":"sha256-cyHMTaODVu4ZCxXeb9hOvmsR37ahxV10OlkjO9HHRFk="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/images/drag-indicator.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"96"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cyHMTaODVu4ZCxXeb9hOvmsR37ahxV10OlkjO9HHRFk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/images/drag-indicator.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\images\drag-indicator.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cyHMTaODVu4ZCxXeb9hOvmsR37ahxV10OlkjO9HHRFk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"96"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cyHMTaODVu4ZCxXeb9hOvmsR37ahxV10OlkjO9HHRFk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/libs/css/style.3jkijgmdyg.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\libs\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3jkijgmdyg"},{"Name":"integrity","Value":"sha256-bwsFhyC8M3UoXDWci1cCgP7BwJVM5fmey6CyQjFeNxA="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/libs/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"126536"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bwsFhyC8M3UoXDWci1cCgP7BwJVM5fmey6CyQjFeNxA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/libs/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\libs\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bwsFhyC8M3UoXDWci1cCgP7BwJVM5fmey6CyQjFeNxA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"126536"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bwsFhyC8M3UoXDWci1cCgP7BwJVM5fmey6CyQjFeNxA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/bootstrap/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\bootstrap\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NJWeQ\u002Bbs82iAeoT5Ktmqbi3NXwxcHlfaVejzJI2dklU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"140421"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NJWeQ\u002Bbs82iAeoT5Ktmqbi3NXwxcHlfaVejzJI2dklU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/bootstrap/css/bootstrap.min.ke4mfrzjse.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\bootstrap\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ke4mfrzjse"},{"Name":"integrity","Value":"sha256-NJWeQ\u002Bbs82iAeoT5Ktmqbi3NXwxcHlfaVejzJI2dklU="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/bootstrap/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"140421"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NJWeQ\u002Bbs82iAeoT5Ktmqbi3NXwxcHlfaVejzJI2dklU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/charts/chartist-bundle/chartist.1j4ep3y1r3.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\charts\chartist-bundle\chartist.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1j4ep3y1r3"},{"Name":"integrity","Value":"sha256-bRMAABVP\u002BecQsz7zNsSPk3ghNkU6wcTa6DgW1Djcu9g="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/charts/chartist-bundle/chartist.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11482"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bRMAABVP\u002BecQsz7zNsSPk3ghNkU6wcTa6DgW1Djcu9g=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/charts/chartist-bundle/chartist.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\charts\chartist-bundle\chartist.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bRMAABVP\u002BecQsz7zNsSPk3ghNkU6wcTa6DgW1Djcu9g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11482"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bRMAABVP\u002BecQsz7zNsSPk3ghNkU6wcTa6DgW1Djcu9g=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Black.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-Black.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rKSFnLa/d/L\u002BqUjQuC12RiZufPF4fDIOtyCDZpfUSfk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"41324"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022rKSFnLa/d/L\u002BqUjQuC12RiZufPF4fDIOtyCDZpfUSfk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Black.wx1m4lr493.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-Black.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wx1m4lr493"},{"Name":"integrity","Value":"sha256-rKSFnLa/d/L\u002BqUjQuC12RiZufPF4fDIOtyCDZpfUSfk="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Black.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41324"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022rKSFnLa/d/L\u002BqUjQuC12RiZufPF4fDIOtyCDZpfUSfk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.348hh0u5s1.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-BlackItalic.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"348hh0u5s1"},{"Name":"integrity","Value":"sha256-UxT7kCwc14sAIOSYn0Aa9Aoa3ECm6gHedVJhzDlYCU4="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44884"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022UxT7kCwc14sAIOSYn0Aa9Aoa3ECm6gHedVJhzDlYCU4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-BlackItalic.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UxT7kCwc14sAIOSYn0Aa9Aoa3ECm6gHedVJhzDlYCU4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"44884"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022UxT7kCwc14sAIOSYn0Aa9Aoa3ECm6gHedVJhzDlYCU4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Bold.len6hemwvo.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-Bold.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"len6hemwvo"},{"Name":"integrity","Value":"sha256-AztwUezOIMyIVCNGTbKXD1gSnsuqS9kj89YaHIn4s4k="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Bold.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41308"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022AztwUezOIMyIVCNGTbKXD1gSnsuqS9kj89YaHIn4s4k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Bold.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-Bold.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AztwUezOIMyIVCNGTbKXD1gSnsuqS9kj89YaHIn4s4k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"41308"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022AztwUezOIMyIVCNGTbKXD1gSnsuqS9kj89YaHIn4s4k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.nyhrc2k9q0.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-BoldItalic.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nyhrc2k9q0"},{"Name":"integrity","Value":"sha256-URj8eHXoZqGhCdxlI9Cll2N2iRf4goEB8i9md8CLqZI="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45156"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022URj8eHXoZqGhCdxlI9Cll2N2iRf4goEB8i9md8CLqZI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-BoldItalic.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-URj8eHXoZqGhCdxlI9Cll2N2iRf4goEB8i9md8CLqZI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"45156"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022URj8eHXoZqGhCdxlI9Cll2N2iRf4goEB8i9md8CLqZI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Book.eq8rb8aa8z.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-Book.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eq8rb8aa8z"},{"Name":"integrity","Value":"sha256-CnC0RfQhe23iSpJgQsbfl0CABHNeWOJnCK3YAD0jKr0="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Book.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36612"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022CnC0RfQhe23iSpJgQsbfl0CABHNeWOJnCK3YAD0jKr0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Book.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-Book.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CnC0RfQhe23iSpJgQsbfl0CABHNeWOJnCK3YAD0jKr0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"36612"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022CnC0RfQhe23iSpJgQsbfl0CABHNeWOJnCK3YAD0jKr0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BookItalic.81jciln5x4.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-BookItalic.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"81jciln5x4"},{"Name":"integrity","Value":"sha256-pJ5X3DJmMC2aeXcltNl82m/8qmmMMGB\u002BuIyAFdUCH6o="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39220"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022pJ5X3DJmMC2aeXcltNl82m/8qmmMMGB\u002BuIyAFdUCH6o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-BookItalic.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pJ5X3DJmMC2aeXcltNl82m/8qmmMMGB\u002BuIyAFdUCH6o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"39220"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022pJ5X3DJmMC2aeXcltNl82m/8qmmMMGB\u002BuIyAFdUCH6o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Medium.5ki7ye2il7.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-Medium.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5ki7ye2il7"},{"Name":"integrity","Value":"sha256-tVNxv5g8dJJzzdWU4W2SSYEYgUnd2uB0lsTii3LE\u002BnY="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Medium.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40840"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022tVNxv5g8dJJzzdWU4W2SSYEYgUnd2uB0lsTii3LE\u002BnY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-Medium.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-Medium.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tVNxv5g8dJJzzdWU4W2SSYEYgUnd2uB0lsTii3LE\u002BnY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"40840"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022tVNxv5g8dJJzzdWU4W2SSYEYgUnd2uB0lsTii3LE\u002BnY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.ktnpy7bctw.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-MediumItalic.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ktnpy7bctw"},{"Name":"integrity","Value":"sha256-2NJxdH29toYKBjJva0ZsO/h/q8EmNjrQudVj\u002BBa7OTE="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44660"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u00222NJxdH29toYKBjJva0ZsO/h/q8EmNjrQudVj\u002BBa7OTE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\CircularStd-MediumItalic.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2NJxdH29toYKBjJva0ZsO/h/q8EmNjrQudVj\u002BBa7OTE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"44660"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u00222NJxdH29toYKBjJva0ZsO/h/q8EmNjrQudVj\u002BBa7OTE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DHPezOdor7v8R0X0Kban317dBG3kybR75l4YVwlTlYE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1282"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DHPezOdor7v8R0X0Kban317dBG3kybR75l4YVwlTlYE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/style.ksn6bl7czj.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\circular-std\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ksn6bl7czj"},{"Name":"integrity","Value":"sha256-DHPezOdor7v8R0X0Kban317dBG3kybR75l4YVwlTlYE="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/circular-std/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1282"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DHPezOdor7v8R0X0Kban317dBG3kybR75l4YVwlTlYE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/fontawesome/css/fontawesome-all.6qambbv70c.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\fontawesome\css\fontawesome-all.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6qambbv70c"},{"Name":"integrity","Value":"sha256-zoZ1b4B6NyZnAvgrHpKEFF/e93p89/oo4aNkGt8XxaE="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/fontawesome/css/fontawesome-all.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38302"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zoZ1b4B6NyZnAvgrHpKEFF/e93p89/oo4aNkGt8XxaE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/Admin/assets/vendor/fonts/fontawesome/css/fontawesome-all.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\vendor\fonts\fontawesome\css\fontawesome-all.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zoZ1b4B6NyZnAvgrHpKEFF/e93p89/oo4aNkGt8XxaE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"38302"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zoZ1b4B6NyZnAvgrHpKEFF/e93p89/oo4aNkGt8XxaE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 30 Sep 2022 20:06:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.2mh5tmlihx.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.2mh5tmlihx.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2mh5tmlihx"},{"Name":"integrity","Value":"sha256-ag3H1HAiVpEExPrXjpkUVp4uOB6c8NVM5wskXsrjxHE="},{"Name":"label","Value":"_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1157"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ag3H1HAiVpEExPrXjpkUVp4uOB6c8NVM5wskXsrjxHE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:52:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin/DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.2mh5tmlihx.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ag3H1HAiVpEExPrXjpkUVp4uOB6c8NVM5wskXsrjxHE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1157"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ag3H1HAiVpEExPrXjpkUVp4uOB6c8NVM5wskXsrjxHE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:52:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

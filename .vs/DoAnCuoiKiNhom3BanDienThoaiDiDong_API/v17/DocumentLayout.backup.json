@@ -1,0 +1,1218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\tuandan-otp-firebase-adminsdk-41mul-22fd3f5a14.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\tuandan-otp-firebase-adminsdk-41mul-22fd3f5a14.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\cartsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\cartsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\orderdetailapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\orderdetailapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\cartdetailsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\cartdetailsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\blogsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\blogsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\3daa775de68d693642ec33fff7090e2b0ee9083c0a31c634ca439bbe55bba85b\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\2821a3be9267feb094ff6a782149546abb8e375aba0b6f9beccd8fa1c0d3647d\\TagHelperExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\blogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\blogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\blogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\blogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\28dfa9de27f0daeffce192037c332f697cfbf4146c6afb3ed4e1240076eab258\\src\\Mvc\\Mvc.ViewFeatures\\src\\ViewExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\otprecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\otprecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\otprequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\otprequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\otpverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\otpverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1c5b421a24fc274e1d98ced83f0be3488083da13e12404952aeaeb3bebb1c9d0\\Views_Product_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\9b8986b08d30113d98fb278f24ba16846979d49b2bf2425fc406d83761a8e072\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncMethodBuilderCore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\4c87e3cb7c7254554c134830696057354607ae950e463d6ec2ac2cc4e79f1991\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_admin\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E74463-B24E-44DA-BAE0-FF6B9E9D4FE7}|DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_admin\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213949_AddTimestampsToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213949_AddTimestampsToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213853_AddTimestampsToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213853_AddTimestampsToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213030_Newww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213030_Newww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105212911_Newww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105212911_Newww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|d:\\daihochutechkhoa2021\\36laptrinhthietbididong\\doancuoiki\\doancuoikinhom3bandienthoaididong_api\\doancuoikinhom3bandienthoaididong_api\\migrations\\20250106181950_updateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40A1037-6EBC-4F61-B251-5C9E976747CB}|DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API.csproj|solutionrelative:doancuoikinhom3bandienthoaididong_api\\migrations\\20250106181950_updateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tuandan-otp-firebase-adminsdk-41mul-22fd3f5a14.json",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\tuandan-otp-firebase-adminsdk-41mul-22fd3f5a14.json",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\tuandan-otp-firebase-adminsdk-41mul-22fd3f5a14.json",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\tuandan-otp-firebase-adminsdk-41mul-22fd3f5a14.json",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\tuandan-otp-firebase-adminsdk-41mul-22fd3f5a14.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T02:24:54.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesApiController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CategoriesApiController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CategoriesApiController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CategoriesApiController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CategoriesApiController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:16:58.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartsApiController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CartsApiController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CartsApiController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CartsApiController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CartsApiController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:07:37.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartDetailsApiController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CartDetailsApiController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CartDetailsApiController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CartDetailsApiController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\CartDetailsApiController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:07:33.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogsApiController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\BlogsApiController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\BlogsApiController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\BlogsApiController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\BlogsApiController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:07:28.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\ProductApiController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\ProductApiController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:40:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Order.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Order.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Order.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:16:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\IRepositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\IRepositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\IRepositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\IRepositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:15:50.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailApiController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\OrderDetailApiController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\OrderDetailApiController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\OrderDetailApiController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\OrderDetailApiController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:07:50.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderApiController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\OrderApiController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\OrderApiController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\OrderApiController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\OrderApiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:07:30.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T01:04:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:42:38.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:39:23.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:00:19.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Details.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAlwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:59:40.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAlwJcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:16:58.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\RegistrationModel.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:30:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\User.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\User.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:24:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Product.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Product.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:56.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\3daa775de68d693642ec33fff7090e2b0ee9083c0a31c634ca439bbe55bba85b\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\3daa775de68d693642ec33fff7090e2b0ee9083c0a31c634ca439bbe55bba85b\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAqwJsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:31:29.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:05:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Repositories\\BlogRepository.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Repositories\\BlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:01:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T17:31:34.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:03:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:46:22.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\appsettings.json",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\appsettings.json",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\appsettings.json",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T21:33:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Cart.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Cart.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:16:08.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TagHelperExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\2821a3be9267feb094ff6a782149546abb8e375aba0b6f9beccd8fa1c0d3647d\\TagHelperExecutionContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\2821a3be9267feb094ff6a782149546abb8e375aba0b6f9beccd8fa1c0d3647d\\TagHelperExecutionContext.cs [Read Only]",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAjwJAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:52:20.306Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Program.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Program.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:33:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:52:49.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:55:33.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Create.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Create.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T21:14:35.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Index.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Index.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T21:09:31.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T17:05:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:18:55.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T19:51:22.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:25:04.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Details.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Details.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T21:20:48.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Edit.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Edit.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Blogs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T21:19:26.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Product.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Product.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:41:35.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OtpVerificationModel.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpVerificationModel.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpVerificationModel.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpVerificationModel.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpVerificationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:40:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Category.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Category.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:02:04.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:41:42.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T19:51:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T20:27:04.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ViewExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\28dfa9de27f0daeffce192037c332f697cfbf4146c6afb3ed4e1240076eab258\\src\\Mvc\\Mvc.ViewFeatures\\src\\ViewExecutor.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\28dfa9de27f0daeffce192037c332f697cfbf4146c6afb3ed4e1240076eab258\\src\\Mvc\\Mvc.ViewFeatures\\src\\ViewExecutor.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAqwNgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:57:25.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OtpRequestModel.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpRequestModel.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpRequestModel.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpRequestModel.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:41:36.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OtpRecord.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpRecord.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpRecord.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpRecord.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\OtpRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:41:38.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Category.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Category.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:41:39.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Blog.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Blog.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:41:41.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Carts\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Carts\\Index.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Carts\\Index.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Carts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T19:24:24.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\LoginModel.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:38:03.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\CartDetail.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\CartDetail.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\CartDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:16:07.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Views_Product_Create.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1c5b421a24fc274e1d98ced83f0be3488083da13e12404952aeaeb3bebb1c9d0\\Views_Product_Create.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1c5b421a24fc274e1d98ced83f0be3488083da13e12404952aeaeb3bebb1c9d0\\Views_Product_Create.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAD4v1oAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:19:24.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\User.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\User.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:16:05.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:46:24.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\CartsController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:52:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AsyncMethodBuilderCore.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\9b8986b08d30113d98fb278f24ba16846979d49b2bf2425fc406d83761a8e072\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncMethodBuilderCore.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\9b8986b08d30113d98fb278f24ba16846979d49b2bf2425fc406d83761a8e072\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncMethodBuilderCore.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vyUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:15:57.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T17:52:59.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Order.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Order.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:54.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:02:55.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:02:05.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:02:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AsyncTaskMethodBuilderT.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\4c87e3cb7c7254554c134830696057354607ae950e463d6ec2ac2cc4e79f1991\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\4c87e3cb7c7254554c134830696057354607ae950e463d6ec2ac2cc4e79f1991\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAIwBMBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:05:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Cart.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Cart.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:02:03.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Blog.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Blog.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:02:02.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\WeatherForecast.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:02:01.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250106181950_UpdateOrder.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250106181950_UpdateOrder.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250106181950_UpdateOrder.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250106181950_UpdateOrder.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250106181950_UpdateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:19:50.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250105213030_Newww.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213030_Newww.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213030_Newww.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213030_Newww.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213030_Newww.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:30:30.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250105213853_AddTimestampsToProduct.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213853_AddTimestampsToProduct.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213853_AddTimestampsToProduct.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213853_AddTimestampsToProduct.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213853_AddTimestampsToProduct.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:38:53.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250105213949_AddTimestampsToProduct.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213949_AddTimestampsToProduct.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213949_AddTimestampsToProduct.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213949_AddTimestampsToProduct.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105213949_AddTimestampsToProduct.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:39:50.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250105212911_Newww.cs",
+              "DocumentMoniker": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105212911_Newww.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105212911_Newww.cs",
+              "ToolTip": "D:\\DaiHocHutechKhoa2021\\36LapTrinhThietBiDiDong\\DoAnCuoiKi\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105212911_Newww.cs",
+              "RelativeToolTip": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API\\Migrations\\20250105212911_Newww.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:29:11.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

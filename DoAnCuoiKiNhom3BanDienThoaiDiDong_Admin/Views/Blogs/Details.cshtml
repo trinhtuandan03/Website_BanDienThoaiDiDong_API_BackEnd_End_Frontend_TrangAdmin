@@ -1,0 +1,12 @@
+﻿@model DoAnCuoiKiNhom3BanDienThoaiDiDong_Admin.Models.Blog
+
+<h2>Chi tiết Blog</h2>
+<p><strong>Tiêu Đề:</strong> @Model.Title</p>
+<p><strong>Nội Dung:</strong> @Model.Content</p>
+<p><strong>Danh Mục:</strong> @Model.Category</p>
+@if (!string.IsNullOrEmpty(Model.ImageUrl))
+{
+    <img src="@Model.ImageUrl" alt="Hình ảnh 1" style="width: 300px; height: auto;" />
+}
+<p><strong>Ngày Tạo:</strong> @Model.CreatedAt</p>
+<a asp-action="Index" class="btn btn-primary">Quay lại</a>

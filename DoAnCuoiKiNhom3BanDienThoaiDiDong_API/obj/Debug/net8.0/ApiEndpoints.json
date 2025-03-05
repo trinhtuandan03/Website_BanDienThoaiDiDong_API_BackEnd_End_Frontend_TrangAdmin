@@ -1,0 +1,912 @@
+[
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.AuthenticateController",
+    "Method": "GetUserById",
+    "RelativePath": "api/Authenticate/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.AuthenticateController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Authenticate/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedUser",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Models.RegistrationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.AuthenticateController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Authenticate/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.AuthenticateController",
+    "Method": "Login",
+    "RelativePath": "api/Authenticate/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.AuthenticateController",
+    "Method": "Register",
+    "RelativePath": "api/Authenticate/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Models.RegistrationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.AuthenticateController",
+    "Method": "SendOtp",
+    "RelativePath": "api/Authenticate/send-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Models.OtpRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.AuthenticateController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Authenticate/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.AuthenticateController",
+    "Method": "VerifyOtp",
+    "RelativePath": "api/Authenticate/verify-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Models.OtpVerificationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.BlogsApiController",
+    "Method": "GetBlogs",
+    "RelativePath": "api/BlogsApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.BlogDto, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.BlogsApiController",
+    "Method": "PostBlog",
+    "RelativePath": "api/BlogsApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blogDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.BlogDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.BlogDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.BlogsApiController",
+    "Method": "GetBlog",
+    "RelativePath": "api/BlogsApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.BlogDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.BlogsApiController",
+    "Method": "PutBlog",
+    "RelativePath": "api/BlogsApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "blogDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.BlogDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.BlogDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.BlogsApiController",
+    "Method": "DeleteBlog",
+    "RelativePath": "api/BlogsApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartDetailsApiController",
+    "Method": "GetCartDetails",
+    "RelativePath": "api/CartDetailsApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartDetailDto, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartDetailsApiController",
+    "Method": "PostCartDetail",
+    "RelativePath": "api/CartDetailsApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDetailDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartDetailsApiController",
+    "Method": "GetCartDetail",
+    "RelativePath": "api/CartDetailsApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartDetailsApiController",
+    "Method": "PutCartDetail",
+    "RelativePath": "api/CartDetailsApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cartDetailDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartDetailsApiController",
+    "Method": "DeleteCartDetail",
+    "RelativePath": "api/CartDetailsApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartsApiController",
+    "Method": "GetCarts",
+    "RelativePath": "api/CartsApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartsDto, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartsApiController",
+    "Method": "PostCart",
+    "RelativePath": "api/CartsApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartsDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartsApiController",
+    "Method": "GetCart",
+    "RelativePath": "api/CartsApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartsDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartsApiController",
+    "Method": "PutCart",
+    "RelativePath": "api/CartsApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cartDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CartsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CartsApiController",
+    "Method": "DeleteCart",
+    "RelativePath": "api/CartsApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CategoriesApiController",
+    "Method": "GetCategories",
+    "RelativePath": "api/CategoriesApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CategoryDto, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CategoriesApiController",
+    "Method": "PostCategory",
+    "RelativePath": "api/CategoriesApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CategoryDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CategoriesApiController",
+    "Method": "GetCategory",
+    "RelativePath": "api/CategoriesApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CategoryDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CategoriesApiController",
+    "Method": "PutCategory",
+    "RelativePath": "api/CategoriesApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "categoryDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.CategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.CategoriesApiController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/CategoriesApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderApiController",
+    "Method": "GetOrders",
+    "RelativePath": "api/OrderApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDto, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderApiController",
+    "Method": "PostOrder",
+    "RelativePath": "api/OrderApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderApiController",
+    "Method": "GetOrder",
+    "RelativePath": "api/OrderApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderApiController",
+    "Method": "PutOrder",
+    "RelativePath": "api/OrderApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "orderDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderApiController",
+    "Method": "DeleteOrder",
+    "RelativePath": "api/OrderApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderDetailApiController",
+    "Method": "GetOrderDetails",
+    "RelativePath": "api/OrderDetailApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDetailDto, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderDetailApiController",
+    "Method": "PostOrderDetail",
+    "RelativePath": "api/OrderDetailApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderDetailDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderDetailApiController",
+    "Method": "GetOrderDetail",
+    "RelativePath": "api/OrderDetailApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.OrderDetailApiController",
+    "Method": "GetOrderDetailsByOrderId",
+    "RelativePath": "api/OrderDetailApi/by-order/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.OrderDetailDto, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.ProductApiController",
+    "Method": "GetProducts",
+    "RelativePath": "api/ProductApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.ProductDto, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.ProductApiController",
+    "Method": "PostProduct",
+    "RelativePath": "api/ProductApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.ProductDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.ProductApiController",
+    "Method": "GetProduct",
+    "RelativePath": "api/ProductApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.ProductDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.ProductApiController",
+    "Method": "PutProduct",
+    "RelativePath": "api/ProductApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "productDto",
+        "Type": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.DTOs.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.ProductApiController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/ProductApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoAnCuoiKiNhom3BanDienThoaiDiDong_API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoAnCuoiKiNhom3BanDienThoaiDiDong_API.WeatherForecast, DoAnCuoiKiNhom3BanDienThoaiDiDong_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

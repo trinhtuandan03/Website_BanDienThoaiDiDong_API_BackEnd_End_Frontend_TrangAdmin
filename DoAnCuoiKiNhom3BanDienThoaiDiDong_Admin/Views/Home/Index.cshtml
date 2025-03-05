@@ -1,0 +1,24 @@
+﻿@model List<WeatherForecast>
+
+<h1>Dự báo thời tiết</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Ngày</th>
+            <th>Nhiệt độ (°C)</th>
+            <th>Nhiệt độ (°F)</th>
+            <th>Mô tả</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var forecast in Model)
+        {
+            <tr>
+                <td>@forecast.Date.ToString("yyyy-MM-dd")</td>
+                <td>@forecast.TemperatureC</td>
+                <td>@forecast.TemperatureF</td>
+                <td>@forecast.Summary</td>
+            </tr>
+        }
+    </tbody>
+</table>
